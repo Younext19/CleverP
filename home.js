@@ -80,3 +80,12 @@ let student = {
 };
 console.log(student.first); //Prints Younext
 console.log(student.last); //Prints Adams
+
+// If conditions
+if(age>19){
+    console.log('old');
+}else{
+    console.log('too young');
+}
+
+
